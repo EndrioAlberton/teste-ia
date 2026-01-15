@@ -1,0 +1,17 @@
+Assunto: Problema Urgente - Sistema Fora do Ar
+
+Prezados,
+
+Estou tentando acessar o sistema bancário desde as 9h da manhã e não consigo fazer login. Sempre que insiro minhas credenciais, recebo a mensagem de erro "Falha na autenticação - código 502".
+
+Preciso urgentemente acessar o sistema para aprovar algumas transações importantes que vencem hoje às 17h. Já tentei:
+- Limpar cache do navegador
+- Usar outro navegador
+- Resetar minha senha
+
+Nada funcionou. Por favor, podem verificar o que está acontecendo e me ajudar a resolver isso o mais rápido possível?
+
+Agradeço a atenção,
+João Silva
+Gerente Financeiro
+Telefone: (11) 98765-4321

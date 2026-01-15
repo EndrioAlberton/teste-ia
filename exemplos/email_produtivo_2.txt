@@ -1,0 +1,17 @@
+Assunto: Dúvida sobre Relatório Mensal
+
+Olá equipe de suporte,
+
+Gostaria de tirar uma dúvida sobre o novo relatório mensal que foi implementado no sistema.
+
+Quando tento exportar o relatório consolidado de vendas em PDF, os gráficos não aparecem corretamente. Eles ficam cortados e algumas legendas desaparecem.
+
+Isso é um problema conhecido? Existe alguma configuração que eu devo ajustar ou é um bug do sistema?
+
+Também gostaria de saber se é possível personalizar quais colunas aparecem no relatório, pois algumas informações que preciso não estão disponíveis no modelo padrão.
+
+Aguardo retorno.
+
+Att,
+Maria Oliveira
+Analista de BI

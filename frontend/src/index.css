@@ -1,0 +1,73 @@
+/* ==========================================================================
+   ESTILOS BASE - Reset CSS e configurações globais
+   ========================================================================== */
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', 'Consolas', 'Monaco', 'Courier', monospace;
+}
+
+/* Remove estilos padrão de listas */
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Remove estilos padrão de links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Melhora renderização de imagens */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Remove bordas padrão de botões e inputs */
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border: none;
+  outline: none;
+}
+
+/* Cursor pointer para elementos interativos */
+button,
+a,
+label {
+  cursor: pointer;
+}
+
+/* Desabilitar seleção de texto em elementos não adequados */
+button {
+  user-select: none;
+}
